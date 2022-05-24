@@ -11,7 +11,7 @@ git clone https://github.com/cristianxavier147/pruebaFrontend.git
 ## Vamos a la carpeta del proyecto
 
 ```
-cd prueba tienda mascota
+cd pruebaFrontend
 
 ```
 
